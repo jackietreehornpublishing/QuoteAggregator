@@ -1,0 +1,39 @@
+Template info:
+
+Group: atomist
+Name: spring-rest-service
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: atomist-project-templates
+Repo: spring-rest-service
+Branch: master
+Path (within repo): 
+sha: f385e726292fc53c9f0334bc1ebe28cf109eb7a2
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='com.itb'
+team-id='T1KHULA3E'
+name='QuoteAggregator'
+template='spring-rest-service'
+user-id='U1NRF3LFJ'
+group_id='com.itb'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='QuoteAggregator'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='05 07 2016 '
+configuration_class_name='QuoteAggregatorConfiguration'
+package_path='com/itb'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+containerless_web_integration_test_name='QuoteAggregatorOutOfContainerIntegrationTests'
+application_name='QuoteAggregator'
+application_class_name='QuoteAggregatorApplication'
+startup_test_name='QuoteAggregatorApplicationTests'
+web_integration_test_name='QuoteAggregatorWebIntegrationTests'
+creation_date='2016-07-05'
